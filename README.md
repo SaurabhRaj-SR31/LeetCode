@@ -7,6 +7,7 @@ Problem-Solving
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -28,3 +29,11 @@ Problem-Solving
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
