@@ -6,6 +6,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
+| [0312-burst-balloons](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0312-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
@@ -52,4 +53,5 @@ Problem-Solving
 # Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0312-burst-balloons) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
