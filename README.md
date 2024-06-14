@@ -7,6 +7,7 @@ Problem-Solving
 | ------- |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0312-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
@@ -33,6 +34,7 @@ Problem-Solving
 # Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 # Prefix Sum
@@ -83,3 +85,11 @@ Problem-Solving
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0078-subsets) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
