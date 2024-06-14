@@ -64,6 +64,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 # Recursion
 |  |
 | ------- |
