@@ -19,12 +19,14 @@ Problem-Solving
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0132-palindrome-partitioning-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 # Trie
@@ -95,3 +97,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
