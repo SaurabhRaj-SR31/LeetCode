@@ -34,6 +34,7 @@ Problem-Solving
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -75,6 +76,7 @@ Problem-Solving
 # Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 # Greedy
 |  |
