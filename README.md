@@ -9,6 +9,7 @@ Problem-Solving
 | [0078-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0312-burst-balloons) |
+| [0330-patching-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
@@ -91,6 +92,7 @@ Problem-Solving
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
