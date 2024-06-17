@@ -33,6 +33,7 @@ Problem-Solving
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Problem-Solving
 | [0132-palindrome-partitioning-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Trie
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Problem-Solving
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Binary Search
 |  |
 | ------- |
