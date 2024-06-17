@@ -20,6 +20,7 @@ Problem-Solving
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -61,6 +62,7 @@ Problem-Solving
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Problem-Solving
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Binary Search
 |  |
 | ------- |
