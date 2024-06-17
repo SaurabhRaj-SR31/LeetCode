@@ -14,6 +14,7 @@ Problem-Solving
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
@@ -28,6 +29,7 @@ Problem-Solving
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
 # String
 |  |
@@ -51,6 +53,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 # Sorting
 |  |
@@ -114,6 +117,7 @@ Problem-Solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 # Binary Search
 |  |
