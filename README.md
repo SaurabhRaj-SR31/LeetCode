@@ -19,6 +19,7 @@ Problem-Solving
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -31,6 +32,7 @@ Problem-Solving
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Problem-Solving
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Problem-Solving
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
