@@ -49,6 +49,7 @@ Problem-Solving
 | [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Problem-Solving
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 # Heap (Priority Queue)
 |  |
