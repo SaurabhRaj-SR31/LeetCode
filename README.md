@@ -13,6 +13,7 @@ Problem-Solving
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -68,6 +69,7 @@ Problem-Solving
 | ------- |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
@@ -84,6 +86,7 @@ Problem-Solving
 | ------- |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Problem-Solving
 | ------- |
 | [0330-patching-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Backtracking
@@ -135,6 +139,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 # Heap (Priority Queue)
 |  |
