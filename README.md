@@ -43,6 +43,7 @@ Problem-Solving
 | [0132-palindrome-partitioning-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Trie
 |  |
@@ -145,3 +146,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
