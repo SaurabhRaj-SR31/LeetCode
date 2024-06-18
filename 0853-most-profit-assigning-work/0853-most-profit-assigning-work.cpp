@@ -10,33 +10,19 @@ public:
 
         }
         sort(begin(vec),end(vec));
-        for(int i=1;i<vec.size();i++)
-        {
-            vec[i].second=max(vec[i].second,vec[i-1].second);
-        }
-        int tot=0;
-
+        sort(begin(worker),end(worker));
+        int j=0,tot=0,maxprofit=0;
         for(int i=0;i<m;i++)
+        
         {
-             int l=0;
-             int maxprofit=0;
-
-        int r=vec.size()-1;
-        while(l<=r)
-        {
-            int mid=l+(r-l)/2;
-            if(vec[mid].first<=worker[i])
+            while(j<n && worker[i]>=vec[j].first)
             {
-                maxprofit=max(maxprofit,vec[mid].second);
-                l=mid+1;
+                maxprofit=max(maxprofit,vec[j].second);
+                j++;
             }
-            else{
-                r=mid-1;
-            }
+            tot+=maxprofit;
         }
-        tot+=maxprofit;
 
-        }
-       return tot;
+        return tot;
     }
 };
