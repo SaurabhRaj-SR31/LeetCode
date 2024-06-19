@@ -13,6 +13,7 @@ Problem-Solving
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [0792-binary-search](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -148,6 +149,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
