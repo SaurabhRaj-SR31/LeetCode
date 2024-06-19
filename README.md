@@ -40,6 +40,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0132-palindrome-partitioning-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -50,6 +51,7 @@ Problem-Solving
 # Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 # Math
 |  |
