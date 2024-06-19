@@ -6,6 +6,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0204-count-primes) |
@@ -150,6 +151,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
