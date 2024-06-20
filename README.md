@@ -17,6 +17,7 @@ Problem-Solving
 | [0330-patching-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [0792-binary-search](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -159,6 +160,7 @@ Problem-Solving
 | [0035-search-insert-position](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
