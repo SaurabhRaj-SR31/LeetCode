@@ -42,6 +42,7 @@ Problem-Solving
 | [1675-magnetic-force-between-two-balls](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
 # Hash Table
 |  |
 | ------- |
@@ -202,3 +203,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+# Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
