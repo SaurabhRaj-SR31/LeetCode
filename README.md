@@ -9,6 +9,7 @@ Problem-Solving
 | [0033-search-in-rotated-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -176,6 +177,7 @@ Problem-Solving
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0162-find-peak-element) |
@@ -206,4 +208,5 @@ Problem-Solving
 # Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
