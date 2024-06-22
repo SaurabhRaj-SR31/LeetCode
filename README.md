@@ -43,6 +43,7 @@ Problem-Solving
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
 # Hash Table
@@ -195,6 +196,7 @@ Problem-Solving
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2047-find-a-peak-element-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -213,4 +215,5 @@ Problem-Solving
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
