@@ -136,6 +136,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 # Greedy
 |  |
@@ -217,3 +218,7 @@ Problem-Solving
 | [0240-search-a-2d-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0206-reverse-linked-list) |
