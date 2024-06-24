@@ -45,6 +45,7 @@ Problem-Solving
 | [1646-kth-missing-positive-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -75,6 +76,7 @@ Problem-Solving
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 # Trie
