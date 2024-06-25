@@ -81,6 +81,7 @@ Problem-Solving
 | [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1666-make-the-string-great](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -232,6 +233,7 @@ Problem-Solving
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1666-make-the-string-great) |
 # Divide and Conquer
 |  |
 | ------- |
