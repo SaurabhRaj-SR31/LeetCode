@@ -78,6 +78,7 @@ Problem-Solving
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -99,6 +100,7 @@ Problem-Solving
 | [0231-power-of-two](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 # Prefix Sum
@@ -116,6 +118,7 @@ Problem-Solving
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
