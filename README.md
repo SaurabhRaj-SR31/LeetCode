@@ -64,6 +64,7 @@ Problem-Solving
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 # String
 |  |
@@ -82,6 +83,7 @@ Problem-Solving
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1666-make-the-string-great) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -126,6 +128,7 @@ Problem-Solving
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
@@ -133,6 +136,7 @@ Problem-Solving
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 # Two Pointers
 |  |
