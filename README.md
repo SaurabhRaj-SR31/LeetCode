@@ -78,6 +78,7 @@ Problem-Solving
 | [0151-reverse-words-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
