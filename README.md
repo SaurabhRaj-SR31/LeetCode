@@ -30,6 +30,7 @@ Problem-Solving
 | [0907-koko-eating-bananas](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-delete-columns-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -81,6 +82,7 @@ Problem-Solving
 | [0520-detect-capital](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
+| [0981-delete-columns-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1666-make-the-string-great) |
