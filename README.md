@@ -178,6 +178,7 @@ Problem-Solving
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Backtracking
@@ -250,6 +251,7 @@ Problem-Solving
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Matrix
 |  |
 | ------- |
@@ -280,15 +282,19 @@ Problem-Solving
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
