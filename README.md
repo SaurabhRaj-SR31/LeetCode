@@ -21,6 +21,7 @@ Problem-Solving
 | [0312-burst-balloons](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -80,6 +81,7 @@ Problem-Solving
 | [0151-reverse-words-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 | [0935-orderly-queue](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0935-orderly-queue) |
@@ -96,6 +98,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
 # Math
 |  |
@@ -156,6 +159,7 @@ Problem-Solving
 | [0132-palindrome-partitioning-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0472-concatenated-words) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # Bit Manipulation
 |  |
@@ -286,6 +290,7 @@ Problem-Solving
 # Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0472-concatenated-words) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
