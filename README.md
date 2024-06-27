@@ -88,6 +88,7 @@ Problem-Solving
 | [0981-delete-columns-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1666-make-the-string-great](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -303,3 +304,15 @@ Problem-Solving
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
+# String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
+# Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
