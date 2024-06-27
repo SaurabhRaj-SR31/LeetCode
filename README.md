@@ -61,6 +61,7 @@ Problem-Solving
 | [0424-longest-repeating-character-replacement](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0648-replace-words) |
+| [0889-buddy-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1217-relative-sort-array) |
@@ -313,6 +314,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0889-buddy-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0889-buddy-strings) |
 | [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
 # Hash Function
 |  |
