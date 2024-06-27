@@ -149,6 +149,7 @@ Problem-Solving
 # Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0443-string-compression) |
@@ -311,6 +312,7 @@ Problem-Solving
 # String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
 # Hash Function
 |  |
