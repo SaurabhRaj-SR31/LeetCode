@@ -320,3 +320,7 @@ Problem-Solving
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1916-find-center-of-star-graph) |
