@@ -51,6 +51,7 @@ Problem-Solving
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2360-substring-with-largest-variance](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2360-substring-with-largest-variance) |
 | [2737-row-with-maximum-ones](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2737-row-with-maximum-ones) |
 # Hash Table
 |  |
@@ -164,6 +165,7 @@ Problem-Solving
 | [0410-split-array-largest-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0472-concatenated-words) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2360-substring-with-largest-variance](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2360-substring-with-largest-variance) |
 # Bit Manipulation
 |  |
 | ------- |
