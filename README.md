@@ -316,6 +316,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0889-buddy-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0889-buddy-strings) |
 | [1508-longest-happy-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1508-longest-happy-prefix) |
 # Hash Function
