@@ -332,6 +332,7 @@ Problem-Solving
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -353,6 +354,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
@@ -366,4 +368,12 @@ Problem-Solving
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
