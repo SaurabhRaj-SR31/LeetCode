@@ -353,8 +353,17 @@ Problem-Solving
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
