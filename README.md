@@ -339,6 +339,7 @@ Problem-Solving
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -408,4 +409,8 @@ Problem-Solving
 |  |
 | ------- |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
