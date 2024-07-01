@@ -354,6 +354,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [1293-three-consecutive-odds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## String
 |  |
 | ------- |
