@@ -368,6 +368,7 @@ Problem-Solving
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
