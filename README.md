@@ -358,6 +358,7 @@ Problem-Solving
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1293-three-consecutive-odds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -442,6 +443,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
