@@ -359,6 +359,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
@@ -432,6 +433,7 @@ Problem-Solving
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0263-ugly-number) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -443,6 +445,7 @@ Problem-Solving
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -473,5 +476,6 @@ Problem-Solving
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
