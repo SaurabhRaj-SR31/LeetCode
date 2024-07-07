@@ -1,18 +1,28 @@
 class Solution {
 public:
     bool canMakeArithmeticProgression(vector<int>& arr) {
-          int n=arr.size();
-        if(n==2)return true;
+           int n=arr.size();
+           if(n==2)return true;
+        int mini=*min_element(begin(arr),end(arr));
+        int maxi=*max_element(begin(arr),end(arr));
+        if((maxi-mini)%(n-1)!=0)return false;
+        int d=(maxi-mini)/(n-1);
+        int i=0;
+        while(i<n){
+            if(arr[i]==(mini+(i)*d))i++;
+            else{
+            int j=(arr[i]-mini)/d;
 
-        sort(arr.begin(),arr.end());
-        int diff=arr[1]-arr [0];
+                   if(arr[i]==arr[j])return false;
+        if((arr[i]-mini)%d!=0)return false;
+            swap(arr[i],arr[j]);
+            }
+         
 
-        for(int i=2;i<n;i++)
-            if(arr[i]-arr[i-1]!=diff)
-            return false;
-        
+
+
+        }
         return true;
-
-
+    
     }
 };
