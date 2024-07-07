@@ -391,6 +391,7 @@ Problem-Solving
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
@@ -436,6 +437,7 @@ Problem-Solving
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0263-ugly-number) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
+| [1642-water-bottles](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1642-water-bottles) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2645-pass-the-pillow](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Union Find
