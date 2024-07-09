@@ -449,6 +449,7 @@ Problem-Solving
 | [0258-add-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -473,6 +474,7 @@ Problem-Solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -542,6 +544,7 @@ Problem-Solving
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
