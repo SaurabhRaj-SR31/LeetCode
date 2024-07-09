@@ -368,6 +368,7 @@ Problem-Solving
 | [1293-three-consecutive-odds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -458,6 +459,7 @@ Problem-Solving
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1642-water-bottles](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1642-water-bottles) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -508,6 +510,7 @@ Problem-Solving
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Number Theory
 |  |
 | ------- |
