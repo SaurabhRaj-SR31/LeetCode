@@ -336,6 +336,7 @@ Problem-Solving
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -394,6 +395,7 @@ Problem-Solving
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -436,6 +438,7 @@ Problem-Solving
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
