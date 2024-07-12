@@ -1,16 +1,25 @@
 class Solution {
 public:
    string removesubstr(string &s, string &match) {
-        int i = 0;
-        for (int j = 0; j < s.size(); j++) {
-            s[i] = s[j];
-            i++;
-            if (i >= 2 && s[i-1] == match[1] && s[i-2] == match[0]) {
-                i -= 2;
+        stack<char>st;
+        for(auto &ch:s){
+            if (ch==match[1] && !st.empty() && st.top()==match[0]){
+                st.pop();
+
             }
-        }
-        s.erase(begin(s) + i, end(s));
-        return s;
+            else{
+                st.push(ch);
+            }}
+            string str;
+            while(!st.empty()){
+                str.push_back(st.top());
+                st.pop();
+
+            }
+           
+        
+         reverse(begin(str),end(str));
+            return str;
     }
 
     int maximumGain(string s, int x, int y) {
