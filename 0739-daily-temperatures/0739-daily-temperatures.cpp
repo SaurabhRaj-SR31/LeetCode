@@ -1,18 +1,22 @@
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
-        int n = temperatures.size();
-        vector<int> ans(n, 0); // Initialize the answer vector with 0s
-        stack<int> st; // Stack to keep track of indices of the temperatures
+         int n = temperatures.size();
+        vector<int> ans(n, 0); 
+        stack<int> st; 
         
-        for (int i = 0; i < n; ++i) {
-            // While stack is not empty and current temperature is greater than temperature at index stored in stack
-            while (!st.empty() && temperatures[i] > temperatures[st.top()]) {
-                int index = st.top();
+        for (int i = n-1; i >=0; i--) {
+   
+            while (!st.empty() && temperatures[i] >= temperatures[st.top()]) {
+            
                 st.pop();
-                ans[index] = i - index; // Calculate the number of days
+              
             }
-            st.push(i); // Push the current index onto the stack
+           if(st.empty())ans[i]=0;
+           else{
+            ans[i]=st.top()-i;
+           }
+           st.push(i);
         }
         
         return ans;
