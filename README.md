@@ -388,6 +388,7 @@ Problem-Solving
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -435,6 +436,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -474,6 +476,7 @@ Problem-Solving
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0319-bulb-switcher) |
@@ -601,6 +604,7 @@ Problem-Solving
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
