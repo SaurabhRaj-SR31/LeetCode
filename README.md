@@ -362,6 +362,7 @@ Problem-Solving
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
@@ -438,6 +439,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -480,6 +482,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0258-add-digits) |
