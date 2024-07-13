@@ -439,6 +439,7 @@ Problem-Solving
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -614,10 +615,12 @@ Problem-Solving
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
