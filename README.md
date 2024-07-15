@@ -392,6 +392,7 @@ Problem-Solving
 | [0020-valid-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
@@ -447,6 +448,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
