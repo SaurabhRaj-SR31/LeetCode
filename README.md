@@ -492,6 +492,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -605,6 +606,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -635,6 +637,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
