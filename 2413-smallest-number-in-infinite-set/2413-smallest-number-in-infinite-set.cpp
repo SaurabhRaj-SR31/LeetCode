@@ -1,6 +1,6 @@
 class SmallestInfiniteSet {
-public:priority_queue<int,vector<int>,greater<int>>q;
-int cur;
+public:
+  int cur;
 set<int>st;
     SmallestInfiniteSet() {
         cur=1;
@@ -8,9 +8,9 @@ set<int>st;
     
     int popSmallest() {
         int res;
-        if(!q.empty()){
-            res=q.top();
-            q.pop();
+        if(!st.empty()){
+            res=*st.begin();
+            
             st.erase(res);
         }else{
             res=cur;
@@ -22,7 +22,7 @@ set<int>st;
     void addBack(int num) {
         if(num>=cur || st.find(num)!=st.end())return;
         st.insert(num);
-        q.push(num);
+      
     }
 };
 
