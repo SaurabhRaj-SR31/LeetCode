@@ -403,6 +403,7 @@ Problem-Solving
 | [0071-simplify-path](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -543,6 +544,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0205-isomorphic-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0726-number-of-atoms) |
