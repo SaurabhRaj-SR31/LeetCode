@@ -390,6 +390,7 @@ Problem-Solving
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -538,6 +539,7 @@ Problem-Solving
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1642-water-bottles) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -563,6 +565,7 @@ Problem-Solving
 | [1319-unique-number-of-occurrences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -696,4 +699,5 @@ Problem-Solving
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
