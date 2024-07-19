@@ -387,6 +387,7 @@ Problem-Solving
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -596,6 +597,7 @@ Problem-Solving
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Geometry
 |  |
