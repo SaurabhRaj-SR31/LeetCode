@@ -371,6 +371,7 @@ Problem-Solving
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -389,6 +390,7 @@ Problem-Solving
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1127-last-stone-weight](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1127-last-stone-weight) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1319-unique-number-of-occurrences) |
