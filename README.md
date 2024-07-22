@@ -336,6 +336,7 @@ Problem-Solving
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -405,6 +406,7 @@ Problem-Solving
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -491,6 +493,7 @@ Problem-Solving
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
@@ -514,6 +517,7 @@ Problem-Solving
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -526,6 +530,7 @@ Problem-Solving
 | [0937-online-stock-span](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Depth-First Search
 |  |
 | ------- |
