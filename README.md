@@ -361,6 +361,7 @@ Problem-Solving
 | [0726-number-of-atoms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0726-number-of-atoms) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1333-sort-the-jumbled-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -405,6 +406,7 @@ Problem-Solving
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1333-sort-the-jumbled-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
