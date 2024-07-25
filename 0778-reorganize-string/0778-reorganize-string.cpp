@@ -1,34 +1,46 @@
 class Solution {
 public:
-typedef pair<int,char> p;
     string reorganizeString(string s) {
-        string res;
-        int n=s.size();
-        vector<int>arr(26,0);
-        for(auto &ch:s){
-            arr[ch-'a']++;
-            if(arr[ch-'a']>(n+1)/2)return "";
+          int n = s.length();
+        
+        vector<int> count(26, 0);
+        int maxFreq   = 0;
+        char maxFreqCh;
+        for(char &ch : s) {
+            count[ch-'a']++;
+            
+            if(count[ch-'a'] > maxFreq) {
+                maxFreq = count[ch-'a'];
+                maxFreqCh = ch;
+            }
+            
+            if(count[ch-'a'] > (n+1)/2)
+                return "";
         }
-        priority_queue<p,vector<p>>pq;
-        for(char ch='a';ch<='z';ch++){
-           if (arr[ch-'a']>0)
-           pq.push({arr[ch-'a'],ch});
+
+        string result = s;
+        int index     = 0;
+
+        // Place the most frequent letter
+        while (count[maxFreqCh-'a'] != 0) {
+            result[index] = maxFreqCh;
+            index += 2;
+            count[maxFreqCh-'a']--;
         }
-        while(pq.size()>=2){
-            auto p1=pq.top();
-            pq.pop();
-              auto p2=pq.top();
-            pq.pop();
-            res.push_back(p1.second);p1.first--;
-            res.push_back(p2.second);p2.first--;
-            if(p1.first>0)pq.push(p1);
-            if(p2.first>0)pq.push(p2);
 
-
-
-
+        // Place rest of the letters in any order
+        for (char ch = 'a'; ch <= 'z'; ch++) {
+            
+            while (count[ch-'a'] > 0) {
+                if (index >= n) {
+                    index = 1;
+                }
+                result[index] = ch;
+                index += 2;
+                count[ch-'a']--;
+            }
         }
-        if(!pq.empty())res.push_back(pq.top().second);
-return res;
+
+        return result;
     }
 };
