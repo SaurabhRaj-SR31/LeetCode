@@ -421,6 +421,7 @@ Problem-Solving
 | [1392-find-the-difference-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -519,6 +520,7 @@ Problem-Solving
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1511-count-number-of-teams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -811,4 +813,8 @@ Problem-Solving
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
