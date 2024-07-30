@@ -472,6 +472,7 @@ Problem-Solving
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -523,6 +524,7 @@ Problem-Solving
 | [1511-count-number-of-teams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
@@ -547,6 +549,7 @@ Problem-Solving
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
