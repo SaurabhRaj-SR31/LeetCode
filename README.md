@@ -456,6 +456,7 @@ Problem-Solving
 | [0058-length-of-last-word](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0071-simplify-path) |
+| [0087-scramble-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0087-scramble-string) |
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -515,6 +516,7 @@ Problem-Solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0087-scramble-string) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
