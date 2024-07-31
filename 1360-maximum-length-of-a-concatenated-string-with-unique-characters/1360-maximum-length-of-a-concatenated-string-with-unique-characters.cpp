@@ -1,5 +1,5 @@
 class Solution {
-public:
+public:unordered_map<string,int>mp;
 bool hasduplicate(string &s1,string &s2){
     vector<int>vec(26,0);
     for(auto &ch:s1){
@@ -15,6 +15,7 @@ bool hasduplicate(string &s1,string &s2){
         if(i>=n)return temp.size();
         int include=0;
         int exclude=0;
+        if(mp.find(temp)!=mp.end())return mp[temp];
 
         if(hasduplicate(arr[i],temp)){
             exclude=solve(i+1,temp,arr,n);
@@ -26,7 +27,7 @@ bool hasduplicate(string &s1,string &s2){
 
 
         }
-        return max(include,exclude);
+        return mp[temp]=max(include,exclude);
         
         
            }
