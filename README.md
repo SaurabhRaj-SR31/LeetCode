@@ -519,6 +519,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0087-scramble-string) |
+| [0279-perfect-squares](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
@@ -583,6 +584,7 @@ Problem-Solving
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -600,6 +602,7 @@ Problem-Solving
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
