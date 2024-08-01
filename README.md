@@ -447,6 +447,7 @@ Problem-Solving
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
+| [2727-number-of-senior-citizens](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -486,6 +487,7 @@ Problem-Solving
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Simulation
