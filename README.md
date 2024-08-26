@@ -862,6 +862,7 @@ Problem-Solving
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
