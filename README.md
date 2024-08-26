@@ -844,4 +844,8 @@ Problem-Solving
 |  |
 | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
