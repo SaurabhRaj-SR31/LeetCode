@@ -550,6 +550,7 @@ Problem-Solving
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0916-decoded-string-at-index) |
@@ -581,6 +582,7 @@ Problem-Solving
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -729,6 +731,7 @@ Problem-Solving
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
