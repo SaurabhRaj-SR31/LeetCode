@@ -451,6 +451,7 @@ Problem-Solving
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -516,6 +517,7 @@ Problem-Solving
 | [1642-water-bottles](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -730,6 +732,7 @@ Problem-Solving
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Geometry
 |  |
