@@ -466,6 +466,7 @@ Problem-Solving
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -703,6 +704,7 @@ Problem-Solving
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -728,6 +730,7 @@ Problem-Solving
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
