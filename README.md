@@ -611,6 +611,7 @@ Problem-Solving
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
@@ -626,6 +627,7 @@ Problem-Solving
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -728,6 +730,7 @@ Problem-Solving
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
+| [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -784,6 +787,7 @@ Problem-Solving
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -821,6 +825,7 @@ Problem-Solving
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
