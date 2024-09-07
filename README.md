@@ -531,6 +531,7 @@ Problem-Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -681,6 +682,7 @@ Problem-Solving
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -733,6 +735,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0328-odd-even-linked-list) |
