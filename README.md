@@ -404,6 +404,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
@@ -785,6 +786,7 @@ Problem-Solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0948-sort-an-array) |
@@ -792,6 +794,7 @@ Problem-Solving
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -813,6 +816,7 @@ Problem-Solving
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -834,6 +838,7 @@ Problem-Solving
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
