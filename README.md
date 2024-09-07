@@ -653,6 +653,7 @@ Problem-Solving
 | [0279-perfect-squares](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
@@ -739,6 +740,7 @@ Problem-Solving
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -945,4 +947,12 @@ Problem-Solving
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
