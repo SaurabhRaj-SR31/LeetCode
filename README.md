@@ -747,6 +747,7 @@ Problem-Solving
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0725-split-linked-list-in-parts](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
