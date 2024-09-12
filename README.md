@@ -446,6 +446,7 @@ Problem-Solving
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -498,6 +499,7 @@ Problem-Solving
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -715,6 +717,7 @@ Problem-Solving
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -729,6 +732,7 @@ Problem-Solving
 | ------- |
 | [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
@@ -914,6 +918,7 @@ Problem-Solving
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Bucket Sort
