@@ -463,6 +463,7 @@ Problem-Solving
 | [2411-spiral-matrix-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
@@ -737,6 +738,7 @@ Problem-Solving
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -805,6 +807,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0319-bulb-switcher) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
