@@ -539,6 +539,7 @@ Problem-Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -755,6 +756,7 @@ Problem-Solving
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
