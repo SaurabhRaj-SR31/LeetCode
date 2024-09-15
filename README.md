@@ -363,6 +363,7 @@ Problem-Solving
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -408,6 +409,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
@@ -484,6 +486,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0071-simplify-path) |
@@ -708,6 +711,7 @@ Problem-Solving
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
