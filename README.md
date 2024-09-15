@@ -422,6 +422,7 @@ Problem-Solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0498-diagonal-traverse](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
 | [0739-daily-temperatures](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -535,6 +536,7 @@ Problem-Solving
 | [0059-spiral-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -806,6 +808,7 @@ Problem-Solving
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
