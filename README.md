@@ -332,6 +332,7 @@ Problem-Solving
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
@@ -406,6 +407,7 @@ Problem-Solving
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0011-container-with-most-water) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -543,6 +545,7 @@ Problem-Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
