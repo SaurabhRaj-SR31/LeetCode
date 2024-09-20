@@ -502,6 +502,7 @@ Problem-Solving
 | [0168-excel-sheet-column-title](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0290-word-pattern) |
@@ -1047,4 +1048,16 @@ Problem-Solving
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
