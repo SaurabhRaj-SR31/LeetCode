@@ -1060,4 +1060,8 @@ Problem-Solving
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
