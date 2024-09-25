@@ -479,6 +479,7 @@ Problem-Solving
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -535,6 +536,7 @@ Problem-Solving
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -976,6 +978,7 @@ Problem-Solving
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1067,5 +1070,6 @@ Problem-Solving
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
