@@ -432,6 +432,7 @@ Problem-Solving
 | [0739-daily-temperatures](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
+| [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0983-validate-stack-sequences) |
@@ -815,6 +816,7 @@ Problem-Solving
 | [0382-linked-list-random-node](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -952,6 +954,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
@@ -962,6 +965,7 @@ Problem-Solving
 | [0295-find-median-from-data-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0731-my-calendar-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
