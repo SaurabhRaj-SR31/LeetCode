@@ -470,6 +470,7 @@ Problem-Solving
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1962-single-threaded-cpu) |
@@ -536,6 +537,7 @@ Problem-Solving
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -589,6 +591,7 @@ Problem-Solving
 | [0567-permutation-in-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1923-sentence-similarity-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
