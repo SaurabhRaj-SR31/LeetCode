@@ -548,6 +548,7 @@ Problem-Solving
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -574,6 +575,7 @@ Problem-Solving
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -648,6 +650,7 @@ Problem-Solving
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
