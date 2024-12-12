@@ -500,6 +500,7 @@ Problem-Solving
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3429-special-array-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -819,6 +820,7 @@ Problem-Solving
 | [1694-make-sum-divisible-by-p](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2571-find-the-pivot-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [3427-special-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -830,6 +832,7 @@ Problem-Solving
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3427-special-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3427-special-array-ii) |
 ## Linked List
 |  |
 | ------- |
