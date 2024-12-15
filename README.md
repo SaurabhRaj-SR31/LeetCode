@@ -341,6 +341,7 @@ Problem-Solving
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -406,6 +407,7 @@ Problem-Solving
 | [0948-sort-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -475,6 +477,7 @@ Problem-Solving
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1917-maximum-average-pass-ratio](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
