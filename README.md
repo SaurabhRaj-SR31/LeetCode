@@ -417,6 +417,7 @@ Problem-Solving
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -513,6 +514,7 @@ Problem-Solving
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -595,6 +597,7 @@ Problem-Solving
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -753,6 +756,7 @@ Problem-Solving
 | [2645-pass-the-pillow](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
 |  |
 | ------- |
