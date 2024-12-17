@@ -344,6 +344,7 @@ Problem-Solving
 | [1917-maximum-average-pass-ratio](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -410,6 +411,7 @@ Problem-Solving
 | [1917-maximum-average-pass-ratio](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -560,6 +562,7 @@ Problem-Solving
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
@@ -804,6 +807,7 @@ Problem-Solving
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
@@ -1044,6 +1048,7 @@ Problem-Solving
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
