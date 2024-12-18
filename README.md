@@ -467,6 +467,7 @@ Problem-Solving
 | [1497-design-a-stack-with-increment-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -668,6 +669,7 @@ Problem-Solving
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -684,6 +686,7 @@ Problem-Solving
 | [0937-online-stock-span](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Depth-First Search
 |  |
