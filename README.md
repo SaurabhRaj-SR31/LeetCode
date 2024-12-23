@@ -736,6 +736,7 @@ Problem-Solving
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Topological Sort
 |  |
 | ------- |
@@ -974,6 +975,7 @@ Problem-Solving
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
@@ -1018,6 +1020,7 @@ Problem-Solving
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Recursion
 |  |
