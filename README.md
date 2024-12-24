@@ -364,6 +364,7 @@ Problem-Solving
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Sorting
 |  |
 | ------- |
@@ -720,6 +721,7 @@ Problem-Solving
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -737,6 +739,7 @@ Problem-Solving
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
@@ -978,6 +981,7 @@ Problem-Solving
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
