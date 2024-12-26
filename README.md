@@ -440,6 +440,7 @@ Problem-Solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
@@ -640,6 +641,7 @@ Problem-Solving
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
+| [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1121,6 +1123,7 @@ Problem-Solving
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Database
 |  |
