@@ -659,6 +659,7 @@ Problem-Solving
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2562-count-ways-to-build-good-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
