@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int countPalindromicSubsequence(string s) {
+     int countPalindromicSubsequence(string s) {
         int n=s.size();
         vector<pair<int,int>>arr(26,{-1,-1});
         for(int i=0;i<n;i++)
