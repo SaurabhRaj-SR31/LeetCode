@@ -475,6 +475,7 @@ Problem-Solving
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -566,6 +567,7 @@ Problem-Solving
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1193,6 +1195,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
