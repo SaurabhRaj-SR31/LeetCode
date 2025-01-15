@@ -666,6 +666,7 @@ Problem-Solving
 | [0087-scramble-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0087-scramble-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
@@ -882,6 +883,7 @@ Problem-Solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
