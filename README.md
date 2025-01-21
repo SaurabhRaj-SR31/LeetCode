@@ -515,6 +515,7 @@ Problem-Solving
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -930,6 +931,7 @@ Problem-Solving
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -994,6 +996,7 @@ Problem-Solving
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
