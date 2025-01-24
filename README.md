@@ -355,6 +355,7 @@ Problem-Solving
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -761,6 +762,7 @@ Problem-Solving
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -786,6 +788,7 @@ Problem-Solving
 | [0433-minimum-genetic-mutation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -804,6 +807,7 @@ Problem-Solving
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Math
