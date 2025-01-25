@@ -402,6 +402,7 @@ Problem-Solving
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
@@ -548,6 +549,7 @@ Problem-Solving
 | [2868-continuous-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -854,6 +856,7 @@ Problem-Solving
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
