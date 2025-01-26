@@ -365,6 +365,7 @@ Problem-Solving
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2803-modify-graph-edge-weights) |
@@ -778,6 +779,7 @@ Problem-Solving
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -811,6 +813,7 @@ Problem-Solving
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Math
 |  |
