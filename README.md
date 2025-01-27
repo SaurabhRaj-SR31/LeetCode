@@ -355,6 +355,7 @@ Problem-Solving
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
@@ -760,6 +761,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0207-course-schedule](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -787,6 +789,7 @@ Problem-Solving
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -811,6 +814,7 @@ Problem-Solving
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
