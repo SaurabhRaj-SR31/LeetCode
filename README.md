@@ -357,6 +357,7 @@ Problem-Solving
 | ------- |
 | [0207-course-schedule](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
@@ -769,6 +770,7 @@ Problem-Solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0684-redundant-connection](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0684-redundant-connection) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -802,6 +804,7 @@ Problem-Solving
 | [0433-minimum-genetic-mutation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0684-redundant-connection](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
@@ -867,6 +870,7 @@ Problem-Solving
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
