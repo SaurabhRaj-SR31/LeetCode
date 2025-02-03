@@ -563,6 +563,7 @@ Problem-Solving
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3429-special-array-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
