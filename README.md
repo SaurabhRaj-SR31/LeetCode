@@ -615,6 +615,7 @@ Problem-Solving
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -926,6 +927,7 @@ Problem-Solving
 | [1741-sort-array-by-increasing-frequency](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -1213,6 +1215,7 @@ Problem-Solving
 | [1502-construct-k-palindrome-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
