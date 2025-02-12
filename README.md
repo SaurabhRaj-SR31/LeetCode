@@ -402,6 +402,7 @@ Problem-Solving
 | [1962-single-threaded-cpu](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -432,6 +433,7 @@ Problem-Solving
 | [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -539,6 +541,7 @@ Problem-Solving
 | [2411-spiral-matrix-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -942,6 +945,7 @@ Problem-Solving
 | [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
