@@ -496,6 +496,7 @@ Problem-Solving
 | [1396-count-servers-that-communicate](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -875,6 +876,7 @@ Problem-Solving
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1642-water-bottles) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -989,6 +991,7 @@ Problem-Solving
 | [0731-my-calendar-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1209,6 +1212,7 @@ Problem-Solving
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
@@ -1217,6 +1221,7 @@ Problem-Solving
 | [0295-find-median-from-data-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting
 |  |
 | ------- |
