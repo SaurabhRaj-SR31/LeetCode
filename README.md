@@ -887,6 +887,7 @@ Problem-Solving
 | [2155-find-missing-observations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2155-find-missing-observations) |
 | [2571-find-the-pivot-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1286,6 +1287,7 @@ Problem-Solving
 | ------- |
 | [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Database
 |  |
 | ------- |
