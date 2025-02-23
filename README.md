@@ -472,6 +472,7 @@ Problem-Solving
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0854-making-a-large-island](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0952-word-subsets) |
@@ -936,6 +937,7 @@ Problem-Solving
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -1123,6 +1125,7 @@ Problem-Solving
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0948-sort-an-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
@@ -1139,6 +1142,7 @@ Problem-Solving
 | [0783-search-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1189,6 +1193,7 @@ Problem-Solving
 | [0783-search-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
