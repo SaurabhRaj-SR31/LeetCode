@@ -588,6 +588,7 @@ Problem-Solving
 | [3427-special-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1145,6 +1146,7 @@ Problem-Solving
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3483-alternating-groups-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
