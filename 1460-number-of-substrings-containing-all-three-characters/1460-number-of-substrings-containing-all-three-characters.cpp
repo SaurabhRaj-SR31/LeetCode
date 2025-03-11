@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int numberOfSubstrings(string s) {
+      int numberOfSubstrings(string s) {
         int n=s.size();
         int cnt=0;
         vector<int>hash(3,-1);
