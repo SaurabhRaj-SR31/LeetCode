@@ -491,6 +491,7 @@ Problem-Solving
 | [1319-unique-number-of-occurrences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1063,6 +1064,7 @@ Problem-Solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0731-my-calendar-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
