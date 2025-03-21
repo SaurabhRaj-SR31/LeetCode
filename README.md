@@ -370,6 +370,7 @@ Problem-Solving
 | [1558-course-schedule-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -546,6 +547,7 @@ Problem-Solving
 | [2145-grid-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -659,6 +661,7 @@ Problem-Solving
 | [2107-find-unique-binary-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -899,6 +902,7 @@ Problem-Solving
 | [0820-find-eventual-safe-states](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Math
@@ -1005,6 +1009,7 @@ Problem-Solving
 | [2107-find-unique-binary-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
