@@ -415,6 +415,7 @@ Problem-Solving
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -590,6 +591,7 @@ Problem-Solving
 | [2792-neighboring-bitwise-xor](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1036,6 +1038,7 @@ Problem-Solving
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
