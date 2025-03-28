@@ -412,6 +412,7 @@ Problem-Solving
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -445,6 +446,7 @@ Problem-Solving
 | [2413-smallest-number-in-infinite-set](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2803-modify-graph-edge-weights) |
@@ -576,6 +578,7 @@ Problem-Solving
 | [2564-most-profitable-path-in-a-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -751,6 +754,7 @@ Problem-Solving
 | [2551-apply-operations-to-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
@@ -904,6 +908,7 @@ Problem-Solving
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -973,6 +978,7 @@ Problem-Solving
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1165,6 +1171,7 @@ Problem-Solving
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
