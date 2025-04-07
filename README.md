@@ -478,6 +478,7 @@ Problem-Solving
 | [0368-largest-divisible-subset](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -782,6 +783,7 @@ Problem-Solving
 | [0338-counting-bits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
