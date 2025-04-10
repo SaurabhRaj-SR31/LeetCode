@@ -708,6 +708,7 @@ Problem-Solving
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -811,6 +812,7 @@ Problem-Solving
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
@@ -993,6 +995,7 @@ Problem-Solving
 | [3001-apply-operations-to-maximize-score](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
 |  |
