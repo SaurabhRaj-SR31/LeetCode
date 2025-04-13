@@ -985,6 +985,7 @@ Problem-Solving
 | [1925-count-nice-pairs-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2571-find-the-pivot-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -1355,6 +1356,7 @@ Problem-Solving
 | [0241-different-ways-to-add-parentheses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
