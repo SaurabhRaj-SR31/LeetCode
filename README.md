@@ -533,6 +533,7 @@ Problem-Solving
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -1545,6 +1546,7 @@ Problem-Solving
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
