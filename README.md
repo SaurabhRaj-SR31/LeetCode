@@ -419,6 +419,7 @@ Problem-Solving
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -603,6 +604,7 @@ Problem-Solving
 | [2691-count-vowel-strings-in-ranges](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -781,6 +783,7 @@ Problem-Solving
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -1160,6 +1163,7 @@ Problem-Solving
 | [2634-minimum-common-value](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
