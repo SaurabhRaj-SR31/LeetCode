@@ -338,6 +338,7 @@ Problem-Solving
 | [0768-partition-labels](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -490,6 +491,7 @@ Problem-Solving
 | [0739-daily-temperatures](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0854-making-a-large-island](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
@@ -978,6 +980,7 @@ Problem-Solving
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
 | [0539-minimum-time-difference](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0587-erect-the-fence) |
+| [0797-rabbits-in-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1045,6 +1048,7 @@ Problem-Solving
 | [0726-number-of-atoms](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
