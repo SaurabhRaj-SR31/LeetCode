@@ -590,6 +590,7 @@ Problem-Solving
 | [2502-sort-the-people](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1270,6 +1271,7 @@ Problem-Solving
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -1395,6 +1397,7 @@ Problem-Solving
 | [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
@@ -1576,6 +1579,7 @@ Problem-Solving
 ## Monotonic Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
