@@ -339,6 +339,7 @@ Problem-Solving
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -506,6 +507,7 @@ Problem-Solving
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1196-filling-bookcase-shelves) |
