@@ -512,6 +512,7 @@ Problem-Solving
 | [1127-last-stone-weight](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -1079,6 +1080,7 @@ Problem-Solving
 | [1160-letter-tile-possibilities](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1449,6 +1451,7 @@ Problem-Solving
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1396-count-servers-that-communicate) |
