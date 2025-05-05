@@ -817,6 +817,7 @@ Problem-Solving
 | [0458-poor-pigs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0867-new-21-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0868-push-dominoes) |
