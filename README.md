@@ -747,6 +747,7 @@ Problem-Solving
 | [3447-clear-digits](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
@@ -851,6 +852,7 @@ Problem-Solving
 | [2562-count-ways-to-build-good-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -1042,6 +1044,7 @@ Problem-Solving
 | [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Union Find
 |  |
 | ------- |
@@ -1388,6 +1391,7 @@ Problem-Solving
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Tree
 |  |
 | ------- |
