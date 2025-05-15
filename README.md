@@ -357,6 +357,7 @@ Problem-Solving
 | [2509-minimize-xor](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Graph
@@ -636,6 +637,7 @@ Problem-Solving
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -740,6 +742,7 @@ Problem-Solving
 | [2727-number-of-senior-citizens](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -853,6 +856,7 @@ Problem-Solving
 | [2262-solving-questions-with-brainpower](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
