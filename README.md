@@ -481,6 +481,7 @@ Problem-Solving
 | [0054-spiral-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0149-max-points-on-a-line](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1083,6 +1084,7 @@ Problem-Solving
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0146-lru-cache) |
@@ -1271,6 +1273,7 @@ Problem-Solving
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0854-making-a-large-island) |
