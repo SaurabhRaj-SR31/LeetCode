@@ -688,6 +688,7 @@ Problem-Solving
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -1088,6 +1089,7 @@ Problem-Solving
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -1192,6 +1194,7 @@ Problem-Solving
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
