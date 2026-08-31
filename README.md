@@ -348,6 +348,7 @@ Problem-Solving
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -588,6 +589,7 @@ Problem-Solving
 | [2035-count-sub-islands](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
