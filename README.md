@@ -612,6 +612,7 @@ Problem-Solving
 | [2306-create-binary-tree-from-descriptions](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -756,6 +757,7 @@ Problem-Solving
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -1241,6 +1243,7 @@ Problem-Solving
 | [2145-grid-game](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2571-find-the-pivot-integer) |
