@@ -682,6 +682,7 @@ Problem-Solving
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1021,6 +1022,7 @@ Problem-Solving
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Topological Sort
 |  |
@@ -1194,6 +1196,7 @@ Problem-Solving
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1227,6 +1230,7 @@ Problem-Solving
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1336,6 +1340,7 @@ Problem-Solving
 | [2685-first-completely-painted-row-or-column](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Geometry
