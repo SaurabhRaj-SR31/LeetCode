@@ -413,6 +413,7 @@ Problem-Solving
 | [0778-reorganize-string](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0843-binary-trees-with-factors](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0843-binary-trees-with-factors) |
+| [0905-sort-array-by-parity](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -518,6 +519,7 @@ Problem-Solving
 | [0854-making-a-large-island](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -835,6 +837,7 @@ Problem-Solving
 | [0768-partition-labels](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
