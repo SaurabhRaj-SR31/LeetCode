@@ -696,6 +696,7 @@ Problem-Solving
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -1101,6 +1102,7 @@ Problem-Solving
 | [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Union Find
 |  |
 | ------- |
