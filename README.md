@@ -697,6 +697,7 @@ Problem-Solving
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -1265,6 +1266,7 @@ Problem-Solving
 | [3639-zero-array-transformation-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3903-smallest-stable-index-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
