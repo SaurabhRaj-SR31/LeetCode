@@ -1105,6 +1105,7 @@ Problem-Solving
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhRaj-SR31/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Union Find
